@@ -11,10 +11,10 @@
     </defs>
     <polyline
         points="150,100 300,100 300,200 200,200 200,300 400,300 400,400 200,400 200,500 300,500 300,600 100,600 100,150 150,100 300,100"
-        stroke="black" stroke-width="7"
+        stroke="white" stroke-width="7"
         fill="url(#blueblack)" />
     <polyline
         points="450,600 300,600 300,500 400,500 400,200 300,200 300,100 500,100 500,550 450,600 300,600"
-        stroke="black" stroke-width="7"
+        stroke="white" stroke-width="7"
         fill="url(#blackblue)" />
 </svg>
