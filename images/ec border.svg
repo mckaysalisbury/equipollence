@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600" height="700">
+    <defs>
+        <linearGradient id="blueblack" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="blue" />
+            <stop offset="100%" stop-color="black" />
+        </linearGradient>
+        <linearGradient id="blackblue" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="black" />
+            <stop offset="100%" stop-color="blue" />
+        </linearGradient>
+    </defs>
+    <polyline
+        points="100,100 300,100 300,200 200,200 200,300 400,300 400,400 200,400 200,500 300,500 300,600 100,600 100,100 300,100"
+        stroke="black" stroke-width="7"
+        fill="url(#blueblack)" />
+    <polyline
+        points="500,600 300,600 300,500 400,500 400,200 300,200 300,100 500,100 500,600 300,600"
+        stroke="black" stroke-width="7"
+        fill="url(#blackblue)" />
+</svg>
